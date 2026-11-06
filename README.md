@@ -16,8 +16,8 @@ A menu bar player starts and stops sounds without opening the window.
 
 ## Price
 
-Free with 16 sounds, the mixer, the sleep timer and the menu bar player. **Rainloft Pro** unlocks
-all 51 sounds for a one-time US$0.99. No subscription, no account.
+Free with 16 sounds, the mixer, the sleep timer and the menu bar player. A one-time US$0.99
+purchase unlocks all 51 sounds in the same app. No subscription, no account.
 
 ## Privacy
 
